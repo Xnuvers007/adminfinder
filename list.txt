@@ -1,3 +1,11 @@
+/profile.php/admin
+/profile/admin.php
+/profile/admin.html
+/profile/admin.htm
+/profile/admin.asp
+/admin.index.php/
+/login/admin
+/login/cpanel
 /controladmin/
 controlpanel.
 /controlpanel/
@@ -19,6 +27,9 @@ adlog.
 /adlog/
 /dashboard/adlog/
 /index.php/adlog
+/index.php/adlog.php
+/index.php/adlog.asp
+/index.php/adlog.html
 /dashboard/robots.txt
 /index.php/robots.txt
 /robots.txt
