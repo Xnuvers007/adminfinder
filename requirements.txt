@@ -1,6 +1,1 @@
-requests
-colored
-colorama
-tqdm
-argparse
-threading
+requestscoloredcoloramatqdmargparsethreading
